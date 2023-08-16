@@ -1,0 +1,35 @@
+/*body{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    position: relative;
+}*/
+.container a{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;   
+}
+.container a img{
+    height: 30px;
+}
+.form a img{
+    height: 30px;
+}
+p, h3, h2{
+    margin-left: 400px;
+    font-weight: 600px;
+}
+.form a{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    /*border-radius: 6px; */  
+    text-decoration: none;
+    color: green;
+    margin-left: 400px;
+}
+
+
+
